@@ -1299,7 +1299,7 @@ class Midterm(object):
 
 
     /// 左腳
-    axis_plane_assembly(session, assembly, transf, 40, 4, 
+    axis_plane_assembly(session, assembly, transf, 40, 1, 
                                   "LEGO_LEG_LT.prt", "A_8", "DTM5", "A_10", "DTM1");
                                   
                                    
